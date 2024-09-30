@@ -13,4 +13,4 @@
 </p>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,html,css,angular,nestjs,mysql,mongodb,aws,git,docker,hibernate,idea,kafka,linux,maven&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,c,cpp,html,css,angular,nestjs,mysql,mongodb,aws,git,docker,hibernate,idea,kafka,linux,maven&perline=10)](https://skillicons.dev)
