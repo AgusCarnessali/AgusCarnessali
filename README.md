@@ -2,8 +2,8 @@
 
 - 💬 Ask me about Clean Architecture, Java, Angular and SpringBoot
 - 📫 How to reach me: @aguscarnessali
-- 🔭 I’m currently working at MobyDigital
-- 🌱 I’m currently learning Python and Web scraping
+- 🔭 I’m currently working at ICBC Argentina
+- 🌱 I’m currently learning Design patterns
 
 <b>My GitHub Stats</b>
 <p align="center">
